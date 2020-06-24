@@ -64,5 +64,17 @@ int fib(n) {
 
 <img src="Big-O.png" alt="avatar" style="zoom:75%;" />
 
+## 排序算法
+
+## 贪心算法
+
+## 回溯算法
+
+## 动态规划
+
+
+
+
+
 
 
